@@ -9,6 +9,10 @@
     justify-content: center;
     align-items: center;
     margin-top: 35px;
+    
+}
+.image{
+    width: 200px;
 }
 
 .box{
