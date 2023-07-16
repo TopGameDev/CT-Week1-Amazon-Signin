@@ -37,6 +37,10 @@
     justify-content: center;
     flex-direction: column;
 }
+.forgot-pass{
+    margin-left: 190px;
+    text-decoration: none;
+}
 
 .help{
     margin-top: 20px;
